@@ -16,9 +16,11 @@ In an effort to complete at least one tutorial or project a month in 2022.
 
 ### January
 
-[Object Oriented Programming in Python](https://www.youtube.com/watch?v=-pEs-Bss8Wc&ab_channel=PythonEngineer)
+[Particle JS Effect in Vanilla Javascript](https://github.com/styrofomeBoots/Particles)
 
 ### February
+
+[Object Oriented Programming in Python](https://www.youtube.com/watch?v=-pEs-Bss8Wc&ab_channel=PythonEngineer)
 
 ### March
 
