@@ -20,7 +20,7 @@ In an effort to complete at least one tutorial or project a month in 2022.
 
 ### February
 
-[Object Oriented Programming in Python](https://www.youtube.com/watch?v=-pEs-Bss8Wc&ab_channel=PythonEngineer)
+[Object Oriented Programming in Python](https://github.com/styrofomeBoots/python-oop)
 
 ### March
 
